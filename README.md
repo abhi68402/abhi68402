@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:yelletimohan098@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/abhinav68402/">LinkedIn</a> •
-  <a href="https://github.com/abhi68402">GitHub</a>
+  <a href="https://github.com/abhi68402">GitHub</a> •
   <a href="https://abhinavportf.netlify.app/">Portfolio</a>
 </p>
 
